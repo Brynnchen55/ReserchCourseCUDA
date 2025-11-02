@@ -1,1 +1,1 @@
-# ReserchCOurseCUDA
+# ReserchCourseCUDA
